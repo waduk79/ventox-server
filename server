@@ -1,0 +1,41 @@
+{
+   "ads_banner" : "ca-app-pub-8708018795595760/3232448599",
+   "ads_card" : "ca-app-pub-8708018795595760/1919366927",
+   "ads_fullscreen" : "ca-app-pub-8708018795595760/6980121919",
+   "ads_mobile" : "ca-app-pub-8708018795595760~2615572124",
+   "ads_native" : "ca-app-pub-8708018795595760/3218623260",
+   "ads_nextpage" : "ca-app-pub-8708018795595760/9413917405",
+   "application" : "Ventox",
+   "languages" : [
+      {
+         "code" : "en",
+         "language" : "English"
+      },
+      {
+         "code" : "de",
+         "language" : "Deutsch"
+      },
+      {
+         "code" : "tr",
+         "language" : "Türkçe"
+      },
+      {
+         "code" : "pt",
+         "language" : "Português"
+      },
+      {
+         "code" : "es",
+         "language" : "Español"
+      },
+      {
+         "code" : "it",
+         "language" : "Italiano"
+      },
+      {
+         "code" : "fr",
+         "language" : "Français"
+      }
+   ],
+   "maintenance" : 1,
+   "version" : 39
+}
