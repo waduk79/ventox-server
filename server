@@ -35,6 +35,10 @@
          "code" : "fr",
          "language" : "Français"
       }
+      {
+         "code" : "Id",
+         "language" : "Indonesia"
+      }
    ],
    "maintenance" : 1,
    "version" : 39
